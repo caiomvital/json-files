@@ -30,13 +30,11 @@
     "Rua Zumbi dos Palmares",
     "Rua do Desterro",
     "Rua do Catamarã",
-    "Rua dos Três Irmãos",
     "Rua do Vale",
     "Rua do Limoeiro",
     "Rua do Gasômetro",
     "Rua do Forró",
     "Rua José Nunes",
-    "Rua da Paz",
     "Rua do Comércio",
     "Rua Coronel José Pereira",
     "Rua do Corpo de Bombeiros",
@@ -220,11 +218,9 @@
     "Rua São Lucas",
     "Rua Pinheiro Machado",
     "Rua Monteiro",
-    "Rua Miguel de Sá",
-]
-}
-{
-"olinda": [
+    "Rua Miguel de Sá"
+  ],
+  "olinda": [
     "Rua do Amparo",
     "Rua 13 de Maio",
     "Rua São Bento",
